@@ -1,0 +1,21 @@
+body {
+    background-color: #e7ffe2;
+}
+
+.heading {
+    text-align: center;
+    font-family: Georgia, ui-serif, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+
+.list {
+    font-family: Georgia, ui-serif, sans-serif;
+    margin-left: 350px;
+    margin-right: 350px;
+}
